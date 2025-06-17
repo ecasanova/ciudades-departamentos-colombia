@@ -2,6 +2,8 @@
 
 This project provides a public API for accessing information about departments and cities in Colombia. It allows users to retrieve a list of departments and filter cities based on the selected department.
 
+![Screenshot 2025-06-17 at 4 13 23 PM](https://github.com/user-attachments/assets/5193e8e6-6928-4097-a40d-d776da33072f)
+
 ## Project Structure
 
 ```
