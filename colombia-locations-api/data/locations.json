@@ -1,0 +1,245 @@
+[
+    {
+        "id": 1,
+        "name": "Amazonas",
+        "cities": [
+            {"name": "Leticia"},
+            {"name": "Puerto Nariño"}
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Antioquia",
+        "cities": [
+            {"name": "Medellín"},
+            {"name": "Bello"},
+            {"name": "Itagüí"},
+            {"name": "Envigado"}
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Atlántico",
+        "cities": [
+            {"name": "Barranquilla"},
+            {"name": "Soledad"},
+            {"name": "Malambo"}
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Bolívar",
+        "cities": [
+            {"name": "Cartagena"},
+            {"name": "Magangué"},
+            {"name": "Turbaná"}
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Boyacá",
+        "cities": [
+            {"name": "Tunja"},
+            {"name": "Duitama"},
+            {"name": "Sogamoso"}
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Caldas",
+        "cities": [
+            {"name": "Manizales"},
+            {"name": "Villamaría"},
+            {"name": "Chinchiná"}
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Caquetá",
+        "cities": [
+            {"name": "Florencia"},
+            {"name": "El Paujil"}
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Casanare",
+        "cities": [
+            {"name": "Yopal"},
+            {"name": "Aguazul"}
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Cauca",
+        "cities": [
+            {"name": "Popayán"},
+            {"name": "Santander de Quilichao"}
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Cesar",
+        "cities": [
+            {"name": "Valledupar"},
+            {"name": "Aguachica"}
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Chocó",
+        "cities": [
+            {"name": "Quibdó"},
+            {"name": "Istmina"}
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Córdoba",
+        "cities": [
+            {"name": "Montería"},
+            {"name": "Lorica"}
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Cundinamarca",
+        "cities": [
+            {"name": "Bogotá"},
+            {"name": "Soacha"},
+            {"name": "Chocontá"}
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Guainía",
+        "cities": [
+            {"name": "Inírida"}
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Guaviare",
+        "cities": [
+            {"name": "San José del Guaviare"}
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Huila",
+        "cities": [
+            {"name": "Neiva"},
+            {"name": "Pitalito"}
+        ]
+    },
+    {
+        "id": 17,
+        "name": "La Guajira",
+        "cities": [
+            {"name": "Riohacha"},
+            {"name": "Maicao"}
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Magdalena",
+        "cities": [
+            {"name": "Santa Marta"},
+            {"name": "Ciénaga"}
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Meta",
+        "cities": [
+            {"name": "Villavicencio"},
+            {"name": "Acacías"}
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Nariño",
+        "cities": [
+            {"name": "Pasto"},
+            {"name": "Tumaco"}
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Norte de Santander",
+        "cities": [
+            {"name": "Cúcuta"},
+            {"name": "Ocaña"}
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Quindío",
+        "cities": [
+            {"name": "Armenia"},
+            {"name": "Circasia"}
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Risaralda",
+        "cities": [
+            {"name": "Pereira"},
+            {"name": "Dosquebradas"}
+        ]
+    },
+    {
+        "id": 24,
+        "name": "San Andrés y Providencia",
+        "cities": [
+            {"name": "San Andrés"},
+            {"name": "Providencia"}
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Santander",
+        "cities": [
+            {"name": "Bucaramanga"},
+            {"name": "Barrancabermeja"}
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Sucre",
+        "cities": [
+            {"name": "Sincelejo"},
+            {"name": "Corozal"}
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Tolima",
+        "cities": [
+            {"name": "Ibagué"},
+            {"name": "Espinal"}
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Valle del Cauca",
+        "cities": [
+            {"name": "Cali"},
+            {"name": "Palmira"}
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Vaupés",
+        "cities": [
+            {"name": "Mitú"}
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Vichada",
+        "cities": [
+            {"name": "Puerto Carreño"}
+        ]
+    }
+]

@@ -1,0 +1,15 @@
+{
+  "name": "colombia-locations-api",
+  "version": "1.0.0",
+  "description": "A public API for all departments and cities in Colombia.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
