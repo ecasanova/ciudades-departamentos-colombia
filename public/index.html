@@ -21,6 +21,33 @@
             <ul id="city-list"></ul>
         </section>
     </main>
+    <footer>
+        <div class="api-usage">
+            <h2>Cómo usar la API</h2>
+            <div class="api-examples">
+                <div class="example">
+                    <h3>Obtener todos los departamentos</h3>
+                    <pre><code>fetch('/api/departments')
+.then(response => response.json())
+.then(departments => console.log(departments));</code></pre>
+                </div>
+                <div class="example">
+                    <h3>Obtener todas las ciudades</h3>
+                    <pre><code>fetch('/api/cities')
+.then(response => response.json())
+.then(cities => console.log(cities));</code></pre>
+                </div>
+                <div class="example">
+                    <h3>Filtrar ciudades por departamento</h3>
+                    <pre><code>fetch('/api/cities?departmentId=1')
+.then(response => response.json())
+.then(cities => console.log(cities));</code></pre>
+                </div>
+            </div>
+        </div>
+        <p class="footer-note">Desarrollado como API pública para consultar los departamentos y ciudades de Colombia.</p>
+        <p class="footer-update">Datos actualizados en 2025.</p>
+    </footer>
     <script src="script.js"></script>
 </body>
 </html>
