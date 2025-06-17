@@ -493,5 +493,10 @@
         "id": 99,
         "name": "Santa Rosalía",
         "departmentId": 32
+    },
+    {
+        "id": 100,
+        "name": "Bogotá D.C.",
+        "departmentId": 33
     }
 ]
